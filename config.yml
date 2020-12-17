@@ -106,12 +106,15 @@ params:
   timezoneString: " UTC"
   logo: /images/logo.png
   description_header: >-
-    This is the IFCA's <a class='text-grey-darkest' title='IFCA Advanced
-    Computing and e-Science group' href='https://computing.ifca.es/'>Advanced
-    Computing and e-Science group</a> resource status page. 
+    Please refer to this page in order to get the most accurate status of the
+    available resources of the IFCA <a class='text-grey-darkest' title='IFCA
+    Advanced Computing and e-Science group'
+    href='https://computing.ifca.es/'>Advanced Computing and e-Science
+    group</a>.
 
-    Please refer to this page in order to get the most accurate status of the available resources. <br />Follow us <a class='text-grey-darkest' title='Visit our page on Twitter' href='https://www.twitter.com/IFCA_Computing'>on Twitter</a> or subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new events.
-  copyrightHolder: IFCA Advanced Computing and e-Science group.
+
+    <br />Follow us <a class='text-grey-darkest' title='Visit our page on Twitter' href='https://www.twitter.com/IFCA_Computing'>on Twitter</a> or subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new events.
+  copyrightHolder: ""
   eventsPerPage: 10
   groups:
     - Networking

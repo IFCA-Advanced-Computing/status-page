@@ -1,2 +1,14 @@
+# Summary status message
+- id: scheduled
+  translation: Scheduled
+
 - id: isDown
-  translation: Houston, we have a problem...
+  translation: Some services are down.
+- id: isDisrupted
+  translation: Some services are degraded.
+- id: isMonitoring
+  translation: Some systems are being monitored.
+- id: isMaintenance
+  translation: Some systems are under maintenance.
+- id: isOk
+  translation: All systems are operational.

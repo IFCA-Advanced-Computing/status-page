@@ -2,7 +2,7 @@
 section: issue
 title: Test issue
 date: 2020-12-17T12:06:39.426Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: down
 max_severity: down

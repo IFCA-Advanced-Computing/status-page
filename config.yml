@@ -56,9 +56,6 @@ params:
       description: null
       group: Web and miscelaneous services
       link: https://confluence.ifca.es/
-    - name: Wiki (Confluence)
-      group: Web and miscelaneous services
-      link: https://confluence.ifca.es/
     - name: Videoconference system
       group: Web and miscelaneous services
       link: https://talk.ifca.es/

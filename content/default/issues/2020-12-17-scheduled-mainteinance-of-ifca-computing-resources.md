@@ -3,7 +3,7 @@ section: issue
 title: Scheduled mainteinance of IFCA Computing resources
 date: 2021-01-18T11:00:00.000Z
 status: scheduled
-pinned: belowheader
+pinned: null
 current_severity: down
 max_severity: down
 duration: 48h

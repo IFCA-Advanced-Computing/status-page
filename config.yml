@@ -1,63 +1,130 @@
-############################################################
-## Hugo ClearStatus config
-############################################################
-
-# Complete page title
-title: ClearStatus systems status page
-
-# Language config
+title: IFCA Advanced Computing and e-Science status page
 languageCode: en
-
-############################################################
-## More default config. in /config/_default/config.yml
-############################################################
-
-
-############################################################
-## Status default config. Valid for ALL languages.
-############################################################
-
 params:
+  shortDateFormat: 15:04 — Jan 2
+  meta_description: This status page provides updated information about our
+    systems normal operation, incidents that may happen and their resolution.
   systems:
-    - name: Website
-      description: Our company public facing website
-      link: https://www.example.com/
+    - name: Batch System
+      description: Slurm batch system for Altamira
+      group: Altamira supercomputer
+    - name: Login nodes
+      description: Altamira login nodes (login1, login2)
+      group: Altamira supercomputer
+    - name: OpenStack Cloud Public APIs
+      description:
+      group: Cloud Infrastructure
+    - name: OpenStack Compute (nova)
+      description:
+      group: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:8774/
+    - name: OpenStack Identity (Keystone)
+      description:
+      group: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:5000/
+    - name: OpenStack Object Storage (Switft)
+      description:
+      group: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:8080/
+    - name: OpenStack Block Storage (cinder)
+      description:
+      group: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:8776/
+    - name: OpenStack Image catalalog (Glance)
+      description:
+      group: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:9292/
+    - name: OpenStack Networking (Neutron)
+      description:
+      group: Cloud Infrastructure
+      link: https://api.cloud.ifca.es:9696/
+    - name: User Interfaces
+      description:
+      group: Grid and HTC
+    - name: Computing Elements
+      description:
+      group: Grid and HTC
+    - name: Indico Agenda pages
+      description:
+      group: Web and miscelaneous services 
+      link: https://indico.ifca.es/
+    - name: Wordpress pages
+      description:
+      group: Web and miscelaneous services 
+      link:  https://wordpress.ifca.es/
+    - name: Wiki (Confluence)
+      description:
+      group: Web and miscelaneous services 
+      link: https://confluence.ifca.es/
+    - name: Wiki (Confluence)
+      group: Web and miscelaneous services
+      link: https://confluence.ifca.es/
+    - name: Videoconference system
+      group: Web and miscelaneous services
+      link: https://talk.ifca.es/
+    - name: Chat rooms
+      group: Web and miscelaneous services 
+      link: https://meet.ifca.es/ 
+    - name: GitLab 
+      group: Web and miscelaneous services
+      link: https://gitlab.ifca.es/
+    - name: IFCA repository mirror
+      group: Web and miscelaneous services 
+      link: https://repo.ifca.es/
+    - name: Data Science Hub
+      group: Web and miscelaneous services 
+      link: https://datasciencehub.ifca.es/                
     - name: Helpdesk
-      description: Our company customer support site
-      link: https://support.example.com/
-
-  # dateFormat Default: "January 2, 2006 at 3:04 PM"
-  # shortDateFormat Default: "15:04 — Jan 2"
-  dateFormat: "January 2, 2006 at 3:04 PM"
-  shortDateFormat: "15:04 — Jan 2"
-  # This string will be displayed after each time displayed
-  # Set it for instance to " UTC" to indicate UTC times
-  # or a specific time zone, ie " America/New_York"
-  # You can also instead used a translated string per language
+      group: Web and miscelaneous services
+      link: https://support.ifca.es
+    - name: Monitoring
+      group: Web and miscelaneous services
+      link: https://monitor.ifca.es
+    - name: Authentication Single Sign-on
+      group: Authentication system
+      link: https://sso.ifca.es
+    - name: Authentication main system
+      group: Authentication system
+      link: https://auth01.ifca.es
+    - name: Authentication replica
+      group: Authentication system
+      link: https://auth02.ifca.es
+    - name: External network connection
+      group: Networking
+    - name: Internal networking
+      group: Networking
+    - name: Backup system
+      group: Storage systems
+    - name: Ceph block storage
+      group: Storage systems
+    - name: IBM Spectrum Scale
+      group: Storage systems
+    - name: Tape system
+      group: Storage systems
+  dateFormat: January 2, 2006 at 3:04 PM
+  disqusShortname: null
   timezoneString: " UTC"
-
-  # Path to logo image from the /static folder.
-  logo: "/images/clearstatus.svg"
-
-  # favicon
-  icon: "/images/clearstatus.png"
-  iconType: "image/png"
-
-  # Descriptions
-  meta_description: "This status page provides updated information about our systems normal operation, incidents that may happen and their resolution."
-  description_footer: "<a class='text-grey-darkest' title='Visit example.com' href='https://www.example.com/'>Example.com</a> provides open-source software for all kind of sectors."
-  description_header: "Information about <a class='text-grey-darkest' title='Visit example.com' href='https://www.example.com/'>example</a> systems operations.<br />Follow us <a class='text-grey-darkest' title='Visit our page on Twitter' href='https://www.twitter.com/example'>on Twitter</a> or subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new events."
-
-  copyrightHolder: "Example Inc."
-
-  # Disqus commenting per issue: set your Disqus shortname here
-  # Leave empty for no discussion at all.
-  # You can also enable/disable discussions per issue
-  disqusShortname:
-
-  # Layout
+  logo: /images/logo.png
+  description_header: This is the IFCA's <a class='text-grey-darkest' title='IFCA
+    Advanced Computing and e-Science group'
+    href='https://computing.ifca.es/'>Advanced Computing and e-Science group</a>
+    resource status page. Please refer to this page in order to get the most
+    accurate status of the available resources. <br />Follow us <a
+    class='text-grey-darkest' title='Visit our page on Twitter'
+    href='https://www.twitter.com/IFCA_Computing'>on Twitter</a> or subscribe to
+    <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
+    events.
+  copyrightHolder: IFCA Advanced Computing and e-Science group.
   eventsPerPage: 10
-
-############################################################
-## More default config. in /config/_default/params.yml
-############################################################
+  groups:
+    - Networking
+    - Authentication system
+    - Cloud Infrastructure
+    - Storage systems
+    - Altamira supercomputer
+    - Grid and HTC
+    - Web and miscelaneous services
+  icon: /images/favicon.ico
+  description_footer: <a class='text-grey-darkest' title='IFCA Advanced Computing
+    and e-Science group' href='https://computing.ifca.es/'>IFCA Advanced
+    Computing and e-Science group</a>.

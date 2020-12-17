@@ -1,4 +1,4 @@
-title: IFCA Advanced Computing and e-Science status page
+title: IFCA Computing status page
 languageCode: en
 params:
   shortDateFormat: 15:04 — Jan 2
@@ -12,49 +12,49 @@ params:
       description: Altamira login nodes (login1, login2)
       group: Altamira supercomputer
     - name: OpenStack Cloud Public APIs
-      description:
+      description: null
       group: Cloud Infrastructure
     - name: OpenStack Compute (nova)
-      description:
+      description: null
       group: Cloud Infrastructure
       link: https://api.cloud.ifca.es:8774/
     - name: OpenStack Identity (Keystone)
-      description:
+      description: null
       group: Cloud Infrastructure
       link: https://api.cloud.ifca.es:5000/
     - name: OpenStack Object Storage (Switft)
-      description:
+      description: null
       group: Cloud Infrastructure
       link: https://api.cloud.ifca.es:8080/
     - name: OpenStack Block Storage (cinder)
-      description:
+      description: null
       group: Cloud Infrastructure
       link: https://api.cloud.ifca.es:8776/
     - name: OpenStack Image catalalog (Glance)
-      description:
+      description: null
       group: Cloud Infrastructure
       link: https://api.cloud.ifca.es:9292/
     - name: OpenStack Networking (Neutron)
-      description:
+      description: null
       group: Cloud Infrastructure
       link: https://api.cloud.ifca.es:9696/
     - name: User Interfaces
-      description:
+      description: null
       group: Grid and HTC
     - name: Computing Elements
-      description:
+      description: null
       group: Grid and HTC
     - name: Indico Agenda pages
-      description:
-      group: Web and miscelaneous services 
+      description: null
+      group: Web and miscelaneous services
       link: https://indico.ifca.es/
     - name: Wordpress pages
-      description:
-      group: Web and miscelaneous services 
-      link:  https://wordpress.ifca.es/
+      description: null
+      group: Web and miscelaneous services
+      link: https://wordpress.ifca.es/
     - name: Wiki (Confluence)
-      description:
-      group: Web and miscelaneous services 
+      description: null
+      group: Web and miscelaneous services
       link: https://confluence.ifca.es/
     - name: Wiki (Confluence)
       group: Web and miscelaneous services
@@ -63,17 +63,17 @@ params:
       group: Web and miscelaneous services
       link: https://talk.ifca.es/
     - name: Chat rooms
-      group: Web and miscelaneous services 
-      link: https://meet.ifca.es/ 
-    - name: GitLab 
+      group: Web and miscelaneous services
+      link: https://meet.ifca.es/
+    - name: GitLab
       group: Web and miscelaneous services
       link: https://gitlab.ifca.es/
     - name: IFCA repository mirror
-      group: Web and miscelaneous services 
+      group: Web and miscelaneous services
       link: https://repo.ifca.es/
     - name: Data Science Hub
-      group: Web and miscelaneous services 
-      link: https://datasciencehub.ifca.es/                
+      group: Web and miscelaneous services
+      link: https://datasciencehub.ifca.es/
     - name: Helpdesk
       group: Web and miscelaneous services
       link: https://support.ifca.es
@@ -105,15 +105,12 @@ params:
   disqusShortname: null
   timezoneString: " UTC"
   logo: /images/logo.png
-  description_header: This is the IFCA's <a class='text-grey-darkest' title='IFCA
-    Advanced Computing and e-Science group'
-    href='https://computing.ifca.es/'>Advanced Computing and e-Science group</a>
-    resource status page. Please refer to this page in order to get the most
-    accurate status of the available resources. <br />Follow us <a
-    class='text-grey-darkest' title='Visit our page on Twitter'
-    href='https://www.twitter.com/IFCA_Computing'>on Twitter</a> or subscribe to
-    <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
-    events.
+  description_header: >-
+    This is the IFCA's <a class='text-grey-darkest' title='IFCA Advanced
+    Computing and e-Science group' href='https://computing.ifca.es/'>Advanced
+    Computing and e-Science group</a> resource status page. 
+
+    Please refer to this page in order to get the most accurate status of the available resources. <br />Follow us <a class='text-grey-darkest' title='Visit our page on Twitter' href='https://www.twitter.com/IFCA_Computing'>on Twitter</a> or subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new events.
   copyrightHolder: IFCA Advanced Computing and e-Science group.
   eventsPerPage: 10
   groups:

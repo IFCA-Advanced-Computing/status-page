@@ -9,7 +9,36 @@ max_severity: down
 duration: 48h
 resolved_on: 2020-12-17T12:01:23.209Z
 affected:
+  - Batch System
+  - Login nodes
+  - OpenStack Cloud Public APIs
+  - OpenStack Compute (nova)
+  - OpenStack Identity (Keystone)
+  - OpenStack Object Storage (Switft)
+  - OpenStack Block Storage (cinder)
+  - OpenStack Image catalalog (Glance)
+  - OpenStack Networking (Neutron)
+  - User Interfaces
+  - Computing Elements
+  - Indico Agenda pages
+  - Wordpress pages
+  - Wiki (Confluence)
+  - Videoconference system
+  - Chat rooms
+  - GitLab
+  - IFCA repository mirror
+  - Data Science Hub
   - Helpdesk
+  - Monitoring
+  - Authentication Single Sign-on
+  - Authentication main system
+  - Authentication replica
+  - External network connection
+  - Internal networking
+  - Backup system
+  - Ceph block storage
+  - IBM Spectrum Scale
+  - Tape system
 twitterFeed: ""
 enableComments: false
 ---

@@ -42,8 +42,8 @@ affected:
 twitterFeed: ""
 enableComments: false
 ---
-The IFCA computing resources will be unavailable starting on Monday, 18 January 2021 12:00 UTC until Wednesday, 20 January 2021 15:00 UTC.
+The IFCA computing resources will be unavailable starting on Monday, 18 January 2021 15:00 UTC until Wednesday, 20 January 2021 15:00 UTC.
 
 Due to the installation of an autonomous power supply and an engine generator at the IFCA datacenter a **major electrical intervention** will take place in this time window, disrupting the services starting on Monday, 18 January 12:00 UTC.
 
-We will start recovering the different and components as soon as we are able to do so, in order to minimize the service disruption, therefore it is expected that they are available before the end date of Wednesday, 20 January 15:00 UTC.
+We will start recovering the different and components as soon as we are able to do so, in order to minimize the service disruption, therefore it is expected that they are available before the end date of Wednesday, 20 January 15:00 UTC. Please check this page in order to get accurate status of the affected services.

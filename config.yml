@@ -98,7 +98,7 @@ params:
       group: Storage systems
     - name: Tape system
       group: Storage systems
-  dateFormat: January 2, 2006 at 3:04 PM
+  dateFormat: January 2, 2006 at 15:04
   disqusShortname: null
   timezoneString: " UTC"
   logo: /images/logo.png

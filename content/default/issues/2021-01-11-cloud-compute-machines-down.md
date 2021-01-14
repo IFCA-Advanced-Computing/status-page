@@ -2,9 +2,9 @@
 section: issue
 title: Cloud infrastructure is down
 date: 2021-01-11T14:15:00.000Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: down
+current_severity: ok
 max_severity: down
 duration: ""
 resolved_on: 2021-01-11T15:15:30.824Z
@@ -22,4 +22,4 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-An unexpected power outage in our datacenter makes that cloud compute services and Block Storage services are down in this moment.
+All the cloud infrastracture is up and running.

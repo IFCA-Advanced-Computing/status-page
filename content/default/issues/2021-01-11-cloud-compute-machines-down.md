@@ -22,4 +22,6 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-All the cloud infrastracture is up and running.
+**Identified** - Accidental power break.
+
+**Resolved -** All the cloud infrastructure is up and running.

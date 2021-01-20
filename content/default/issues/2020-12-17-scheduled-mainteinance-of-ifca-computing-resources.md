@@ -4,7 +4,7 @@ title: Scheduled mainteinance of IFCA Computing resources
 date: 2021-01-18T15:00:00.000Z
 status: in_progress
 pinned: null
-current_severity: disrupted
+current_severity: down
 max_severity: down
 duration: 48h
 resolved_on: ""
@@ -33,8 +33,6 @@ affected:
   - Authentication Single Sign-on
   - Authentication main system
   - Authentication replica
-  - External network connection
-  - Internal networking
   - Backup system
   - Ceph block storage
   - IBM Spectrum Scale

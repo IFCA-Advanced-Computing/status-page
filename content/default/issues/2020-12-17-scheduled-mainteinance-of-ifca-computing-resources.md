@@ -47,3 +47,6 @@ The IFCA computing resources will be unavailable starting on Monday, 18 January 
 Due to the installation of an autonomous power supply and an engine generator at the IFCA datacenter a **major electrical intervention** will take place in this time window, disrupting the services starting on Monday, 18 January 12:00 UTC.
 
 We will start recovering the different and components as soon as we are able to do so, in order to minimize the service disruption, therefore it is expected that they are available before the end date of Wednesday, 20 January 15:00 UTC. Please check this page in order to get accurate status of the affected services.
+
+* **UPDATE** (2021-01-19 12:00 UTC) - The electrical intervention has finished, with the autonomous power supply installed. We are starting to recover the affected services.
+* **UPDATE** (2021-01-20 12:00 UTC) - One of the switches of the network core had to be replaced with new hardware, causing a delay in the recovery process.

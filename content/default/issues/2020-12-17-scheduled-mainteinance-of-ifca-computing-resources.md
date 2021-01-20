@@ -30,9 +30,6 @@ affected:
   - Data Science Hub
   - Helpdesk
   - Monitoring
-  - Authentication Single Sign-on
-  - Authentication main system
-  - Authentication replica
   - Backup system
   - Ceph block storage
   - IBM Spectrum Scale
@@ -50,3 +47,4 @@ We will start recovering the different and components as soon as we are able to 
 * **UPDATE** (2021-01-20 12:00 UTC) - One of the switches of the network core had to be replaced with new hardware, causing a delay in the recovery process.
 * **UPDATE** (2021-01-20 14:00 UTC) - Recovery process has started.
 * **UPDATE** (2021-01-20 15:00 UTC) - Networking has been recovered.
+* **UPDATE** (2021-01-20 15:15 UTC) - Authentication system has been recovered.

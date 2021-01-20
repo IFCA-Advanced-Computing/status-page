@@ -103,6 +103,8 @@ params:
     - name: OpenStack Dashboard (Horizon)
       group: Cloud Infrastructure
       link: https://portal.cloud.ifca.es
+    - name: OpenStack Compute Nodes
+      group: Cloud Infrastructure
   dateFormat: January 2, 2006 at 15:04
   disqusShortname: null
   timezoneString: " UTC"

@@ -98,6 +98,8 @@ params:
       group: Storage systems
     - name: Tape system
       group: Storage systems
+    - name: DNS
+      group: Networking
   dateFormat: January 2, 2006 at 15:04
   disqusShortname: null
   timezoneString: " UTC"

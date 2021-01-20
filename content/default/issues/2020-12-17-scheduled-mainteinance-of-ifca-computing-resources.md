@@ -4,7 +4,7 @@ title: Scheduled mainteinance of IFCA Computing resources
 date: 2021-01-18T15:00:00.000Z
 status: in_progress
 pinned: null
-current_severity: down
+current_severity: disrupted
 max_severity: down
 duration: 48h
 resolved_on: ""
@@ -50,3 +50,4 @@ We will start recovering the different and components as soon as we are able to 
 
 * **UPDATE** (2021-01-19 12:00 UTC) - The electrical intervention has finished, with the autonomous power supply installed. We are starting to recover the affected services.
 * **UPDATE** (2021-01-20 12:00 UTC) - One of the switches of the network core had to be replaced with new hardware, causing a delay in the recovery process.
+* **UPDATE** (2021-01-20 14:00 UTC) - Recovery process has started.

@@ -26,6 +26,7 @@ affected:
   - Ceph block storage
   - IBM Spectrum Scale
   - Tape system
+  - OpenStack Compute Nodes
 twitterFeed: ""
 enableComments: false
 ---

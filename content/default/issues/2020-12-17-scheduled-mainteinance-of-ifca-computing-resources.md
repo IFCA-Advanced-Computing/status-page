@@ -49,3 +49,4 @@ We will start recovering the different and components as soon as we are able to 
 * **UPDATE** (2021-01-19 12:00 UTC) - The electrical intervention has finished, with the autonomous power supply installed. We are starting to recover the affected services.
 * **UPDATE** (2021-01-20 12:00 UTC) - One of the switches of the network core had to be replaced with new hardware, causing a delay in the recovery process.
 * **UPDATE** (2021-01-20 14:00 UTC) - Recovery process has started.
+* **UPDATE** (2021-01-20 15:00 UTC) - Networking has been recovered.

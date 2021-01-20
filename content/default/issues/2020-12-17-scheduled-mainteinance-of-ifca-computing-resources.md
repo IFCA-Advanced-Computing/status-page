@@ -11,13 +11,6 @@ resolved_on: ""
 affected:
   - Batch System
   - Login nodes
-  - OpenStack Cloud Public APIs
-  - OpenStack Compute (nova)
-  - OpenStack Identity (Keystone)
-  - OpenStack Object Storage (Switft)
-  - OpenStack Block Storage (cinder)
-  - OpenStack Image catalalog (Glance)
-  - OpenStack Networking (Neutron)
   - User Interfaces
   - Computing Elements
   - Indico Agenda pages
@@ -29,7 +22,6 @@ affected:
   - IFCA repository mirror
   - Data Science Hub
   - Helpdesk
-  - Monitoring
   - Backup system
   - Ceph block storage
   - IBM Spectrum Scale
@@ -48,3 +40,4 @@ We will start recovering the different and components as soon as we are able to 
 * **UPDATE** (2021-01-20 14:00 UTC) - Recovery process has started.
 * **UPDATE** (2021-01-20 15:00 UTC) - Networking has been recovered.
 * **UPDATE** (2021-01-20 15:15 UTC) - Authentication system has been recovered.
+* **UPDATE** (2021-01-20 15:45 UTC) - OpenStack Cloud control pane has been recovered.

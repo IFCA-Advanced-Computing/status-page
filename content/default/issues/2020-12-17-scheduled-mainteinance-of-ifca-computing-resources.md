@@ -2,9 +2,9 @@
 section: issue
 title: Scheduled mainteinance of IFCA Computing resources
 date: 2021-01-18T15:00:00.000Z
-status: in_progress
+status: resolved
 pinned: null
-current_severity: down
+current_severity: ok
 max_severity: down
 duration: 48h
 resolved_on: ""
@@ -27,6 +27,21 @@ affected:
   - IBM Spectrum Scale
   - Tape system
   - OpenStack Compute Nodes
+  - OpenStack Cloud Public APIs
+  - OpenStack Compute (nova)
+  - OpenStack Identity (Keystone)
+  - OpenStack Object Storage (Switft)
+  - OpenStack Block Storage (cinder)
+  - OpenStack Image catalalog (Glance)
+  - Monitoring
+  - OpenStack Networking (Neutron)
+  - Authentication Single Sign-on
+  - Authentication main system
+  - Authentication replica
+  - External network connection
+  - Internal networking
+  - DNS
+  - OpenStack Dashboard (Horizon)
 twitterFeed: ""
 enableComments: false
 ---
@@ -42,3 +57,4 @@ We will start recovering the different and components as soon as we are able to 
 * **UPDATE** (2021-01-20 15:00 UTC) - Networking has been recovered.
 * **UPDATE** (2021-01-20 15:15 UTC) - Authentication system has been recovered.
 * **UPDATE** (2021-01-20 15:45 UTC) - OpenStack Cloud control pane has been recovered.
+* **UPDATE** (2021-01-20 22:00 UTC) - All systems were recovered.

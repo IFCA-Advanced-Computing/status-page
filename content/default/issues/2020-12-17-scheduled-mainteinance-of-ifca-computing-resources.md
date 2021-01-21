@@ -2,9 +2,9 @@
 section: issue
 title: Scheduled mainteinance of IFCA Computing resources
 date: 2021-01-18T15:00:00.000Z
-status: resolved
+status: in_progress
 pinned: null
-current_severity: ok
+current_severity: monitoring
 max_severity: down
 duration: 48h
 resolved_on: ""
@@ -57,4 +57,4 @@ We will start recovering the different and components as soon as we are able to 
 * **UPDATE** (2021-01-20 15:00 UTC) - Networking has been recovered.
 * **UPDATE** (2021-01-20 15:15 UTC) - Authentication system has been recovered.
 * **UPDATE** (2021-01-20 15:45 UTC) - OpenStack Cloud control pane has been recovered.
-* **UPDATE** (2021-01-20 22:00 UTC) - All systems were recovered.
+* **UPDATE** (2021-01-20 22:00 UTC) - All systems were recovered, we will monitor them until the system is stable.

@@ -7,7 +7,7 @@ pinned: null
 current_severity: monitoring
 max_severity: monitoring
 duration: ""
-resolved_on: 2021-01-21T08:38:10.600Z
+resolved_on: 2021-01-22T16:49:41.124Z
 affected:
   - Batch System
   - Login nodes

@@ -3,7 +3,7 @@ section: issue
 title: Compute backend is down
 date: 2021-01-21T08:38:10.500Z
 status: resolved
-pinned: ""
+pinned: null
 current_severity: ok
 max_severity: down
 duration: ""
@@ -13,5 +13,5 @@ affected:
   - Login nodes
   - User Interfaces
 twitterFeed: ""
-enableComments: true
+enableComments: false
 ---

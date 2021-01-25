@@ -4,7 +4,7 @@ title: Scheduled mainteinance of IFCA Computing resources
 date: 2021-01-18T15:00:00.000Z
 status: resolved
 pinned: null
-current_severity: down
+current_severity: ok
 max_severity: down
 duration: 48h
 resolved_on: ""

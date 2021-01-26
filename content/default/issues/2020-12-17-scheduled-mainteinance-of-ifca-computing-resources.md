@@ -3,14 +3,21 @@ section: issue
 title: Scheduled mainteinance of IFCA Computing resources
 date: 2021-01-18T15:00:00.000Z
 status: resolved
-pinned: null
+pinned: ""
 current_severity: ok
 max_severity: down
-duration: 48h
-resolved_on: ""
+duration: ""
+resolved_on: 2021-01-21T13:13:50.862Z
 affected:
   - Batch System
   - Login nodes
+  - OpenStack Cloud Public APIs
+  - OpenStack Compute (nova)
+  - OpenStack Identity (Keystone)
+  - OpenStack Object Storage (Switft)
+  - OpenStack Block Storage (cinder)
+  - OpenStack Image catalalog (Glance)
+  - OpenStack Networking (Neutron)
   - User Interfaces
   - Computing Elements
   - Indico Agenda pages
@@ -22,26 +29,19 @@ affected:
   - IFCA repository mirror
   - Data Science Hub
   - Helpdesk
-  - Backup system
-  - Ceph block storage
-  - IBM Spectrum Scale
-  - Tape system
-  - OpenStack Compute Nodes
-  - OpenStack Cloud Public APIs
-  - OpenStack Compute (nova)
-  - OpenStack Identity (Keystone)
-  - OpenStack Object Storage (Switft)
-  - OpenStack Block Storage (cinder)
-  - OpenStack Image catalalog (Glance)
   - Monitoring
-  - OpenStack Networking (Neutron)
   - Authentication Single Sign-on
   - Authentication main system
   - Authentication replica
   - External network connection
   - Internal networking
+  - Backup system
+  - Ceph block storage
+  - IBM Spectrum Scale
+  - Tape system
   - DNS
   - OpenStack Dashboard (Horizon)
+  - OpenStack Compute Nodes
 twitterFeed: ""
 enableComments: false
 ---

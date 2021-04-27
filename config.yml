@@ -22,7 +22,7 @@ params:
       description: null
       group: Cloud Infrastructure
       link: https://api.cloud.ifca.es:5000/
-    - name: OpenStack Object Storage (Switft)
+    - name: OpenStack Object Storage (Swift)
       description: null
       group: Cloud Infrastructure
       link: https://api.cloud.ifca.es:8080/

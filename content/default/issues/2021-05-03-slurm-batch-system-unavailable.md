@@ -2,12 +2,12 @@
 section: issue
 title: Slurm Batch System unavailable
 date: 2021-05-03T09:24:49.165Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: down
-max_severity: down
+current_severity: ok
+max_severity: ok
 duration: ""
-resolved_on: 2021-05-03T09:24:49.193Z
+resolved_on: 2021-05-03T09:45:25.812Z
 affected:
   - Batch System
 twitterFeed: ""

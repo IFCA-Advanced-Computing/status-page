@@ -2,12 +2,12 @@
 section: issue
 title: Scheduled Maintenance in the Cloud Infrastructure
 date: 2021-04-25T06:00:12.124Z
-status: scheduled
+status: resolved
 pinned: ""
 current_severity: ok
 max_severity: down
 duration: 2 hours
-resolved_on: 2021-04-23T11:32:12.180Z
+resolved_on: 2021-04-25T11:32:12.180Z
 affected:
   - OpenStack Cloud Public APIs
   - OpenStack Dashboard (Horizon)

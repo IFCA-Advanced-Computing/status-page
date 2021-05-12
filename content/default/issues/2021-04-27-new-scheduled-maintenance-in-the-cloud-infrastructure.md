@@ -2,12 +2,12 @@
 section: issue
 title: New scheduled Maintenance in the Cloud Infrastructure
 date: 2021-04-28T07:00:00.000Z
-status: scheduled
+status: resolved
 pinned: ""
-current_severity: maintenance
+current_severity: ok
 max_severity: down
 duration: ""
-resolved_on: 2021-04-27T11:53:40.586Z
+resolved_on: 2021-04-28T11:53:40.586Z
 affected:
   - OpenStack Cloud Public APIs
   - OpenStack Compute (nova)

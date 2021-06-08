@@ -9,7 +9,7 @@ max_severity: down
 duration: ""
 resolved_on: ""
 affected:
-  - Batch System
+  - Computing Elements
 twitterFeed: ""
 enableComments: true
 ---

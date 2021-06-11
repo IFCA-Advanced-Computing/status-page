@@ -7,7 +7,7 @@ pinned: ""
 current_severity: ok
 max_severity: ok
 duration: ""
-resolved_on: ""
+resolved_on: 2021-06-11T10:41:23.392Z
 affected:
   - Computing Elements
 twitterFeed: ""

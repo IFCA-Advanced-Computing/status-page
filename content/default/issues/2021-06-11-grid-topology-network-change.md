@@ -2,7 +2,7 @@
 section: issue
 title: Maintenance Grid - Topology network change
 date: 2021-06-14T07:00:47.940Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: maintenance
 max_severity: down

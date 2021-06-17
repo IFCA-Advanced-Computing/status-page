@@ -2,7 +2,7 @@
 section: issue
 title: Unexpected shotdown of Altamira and Grid nodes
 date: 2021-06-15T14:37:22.742Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: down
 max_severity: down

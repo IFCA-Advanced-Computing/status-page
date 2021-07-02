@@ -2,7 +2,7 @@
 section: issue
 title: Network Intervention in the GPU Cluster
 date: 2021-07-01T07:00:29.579Z
-status: scheduled
+status: resolved
 pinned: ""
 current_severity: ok
 max_severity: disrupted

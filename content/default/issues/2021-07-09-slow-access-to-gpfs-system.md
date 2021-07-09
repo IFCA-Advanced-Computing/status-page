@@ -4,7 +4,7 @@ title: Slow access to gpfs system
 date: 2021-07-09T11:21:06.981Z
 status: in_progress
 pinned: ""
-current_severity: down
+current_severity: disrupted
 max_severity: down
 duration: ""
 resolved_on: 2021-07-09T11:21:07.017Z

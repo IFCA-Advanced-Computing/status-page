@@ -4,7 +4,7 @@ title: Networking disruption by an update in the router Monday 02/08
 date: 2021-08-02T08:00:00.000Z
 status: resolved
 pinned: top
-current_severity: ok
+current_severity: down
 max_severity: down
 duration: ""
 resolved_on: 2021-07-27T11:35:37.060Z

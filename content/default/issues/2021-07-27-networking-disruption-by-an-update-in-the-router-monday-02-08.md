@@ -2,7 +2,7 @@
 section: issue
 title: Networking disruption by an update in the router Monday 02/08
 date: 2021-08-02T08:00:00.000Z
-status: scheduled
+status: resolved
 pinned: top
 current_severity: ok
 max_severity: down

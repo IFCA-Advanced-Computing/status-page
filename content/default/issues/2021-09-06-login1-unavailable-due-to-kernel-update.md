@@ -2,9 +2,9 @@
 section: issue
 title: Login1 unavailable due to kernel update
 date: 2021-09-06T10:02:19.732Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: down
+current_severity: ok
 max_severity: down
 duration: ""
 resolved_on: 2021-09-06T10:02:19.782Z

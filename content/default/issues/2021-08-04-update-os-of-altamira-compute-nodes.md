@@ -2,12 +2,12 @@
 section: issue
 title: Update OS of Altamira Compute Nodes
 date: 2021-08-04T12:04:21.752Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: maintenance
 max_severity: down
 duration: ""
-resolved_on: 2021-08-04T12:04:21.797Z
+resolved_on: 2021-08-31T12:04:21.797Z
 affected:
   - Batch System
   - Computing Elements

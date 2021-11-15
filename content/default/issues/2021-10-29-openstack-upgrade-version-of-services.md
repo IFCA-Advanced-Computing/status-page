@@ -1,7 +1,7 @@
 ---
 section: issue
 title: "[OpenStack] Upgrade version of services"
-date: 2021-11-15T07:30:23.001Z
+date: 2021-11-16T07:30:23.001Z
 status: scheduled
 pinned: ""
 current_severity: down
@@ -22,4 +22,4 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-An upgrade in the OpenStack Cloud Computing services will be scheduled at Nov 08 until the services will be updated.
+An upgrade in the OpenStack Cloud Computing services will be scheduled at Nov 16 until the services will be updated.

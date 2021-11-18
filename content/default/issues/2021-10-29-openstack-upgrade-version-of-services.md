@@ -2,7 +2,7 @@
 section: issue
 title: "[OpenStack] Upgrade version of services"
 date: 2021-11-16T07:30:23.001Z
-status: scheduled
+status: resolved
 pinned: ""
 current_severity: down
 max_severity: down

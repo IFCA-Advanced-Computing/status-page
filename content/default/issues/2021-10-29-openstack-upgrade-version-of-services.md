@@ -7,7 +7,7 @@ pinned: ""
 current_severity: down
 max_severity: down
 duration: ""
-resolved_on: 2021-10-29T10:23:23.057Z
+resolved_on: 2021-11-16T18:23:00.000Z
 affected:
   - OpenStack Cloud Public APIs
   - OpenStack Compute (nova)
@@ -23,3 +23,5 @@ twitterFeed: ""
 enableComments: true
 ---
 An upgrade in the OpenStack Cloud Computing services will be scheduled at Nov 16 until the services will be updated.
+
+The Authentication service of OpenStack was succesfully updated.

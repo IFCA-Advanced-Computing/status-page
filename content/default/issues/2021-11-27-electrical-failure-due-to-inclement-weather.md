@@ -2,12 +2,12 @@
 section: issue
 title: Electrical failure due to inclement weather
 date: 2021-11-27T15:23:21.604Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: disrupted
+current_severity: ok
 max_severity: disrupted
 duration: ""
-resolved_on: 2021-11-27T15:24:00.100Z
+resolved_on: 2021-11-29T11:01:38.873Z
 affected:
   - Computing Elements
   - OpenStack Compute Nodes

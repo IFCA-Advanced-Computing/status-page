@@ -9,7 +9,7 @@ max_severity: disrupted
 duration: ""
 resolved_on: 2021-12-14T13:00:53.817Z
 affected:
-  - Batch System
+  - Computing Elements
 twitterFeed: ""
 enableComments: true
 ---

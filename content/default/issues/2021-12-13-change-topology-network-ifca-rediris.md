@@ -2,7 +2,7 @@
 section: issue
 title: Change topology network IFCA-RedIris
 date: 2021-12-14T07:00:21.072Z
-status: in_progress
+status: scheduled
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted

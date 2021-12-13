@@ -2,7 +2,7 @@
 section: issue
 title: Data transfer system upgrade
 date: 2021-12-14T08:00:53.803Z
-status: in_progress
+status: scheduled
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted

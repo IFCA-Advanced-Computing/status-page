@@ -20,3 +20,6 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
+Network conectivity has been restored sucessfully at 8:35 am (Local Time).
+
+Services seems to be working fine.

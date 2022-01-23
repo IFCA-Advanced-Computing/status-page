@@ -16,4 +16,4 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-An upgrade in the OpenStack Cloud Computing services will be scheduled at Nov 16 until the services will be updated.  The Authentication service of OpenStack was succesfully updated.
+An upgrade in the OpenStack Cloud Computing services will be scheduled at Jan 24 until the services will be updated.  The Authentication service of OpenStack was succesfully updated.

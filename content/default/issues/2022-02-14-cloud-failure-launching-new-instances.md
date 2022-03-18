@@ -2,7 +2,7 @@
 section: issue
 title: "[Cloud] Failure launching new instances"
 date: 2022-01-31T08:00:47.464Z
-status: in_progress
+status: resolved
 pinned: null
 current_severity: monitoring
 max_severity: monitoring

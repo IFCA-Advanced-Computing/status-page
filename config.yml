@@ -105,6 +105,10 @@ params:
       link: https://portal.cloud.ifca.es
     - name: OpenStack Compute Nodes
       group: Cloud Infrastructure
+    - name: Nextcloud
+      group: Web and miscelaneous services
+      description: Internal nextcloud Suit
+      link: nextcloud.ifca.es
   dateFormat: January 2, 2006 at 15:04
   disqusShortname: null
   timezoneString: " UTC"

@@ -3,7 +3,7 @@ section: issue
 title: Nextcloud Upgrade
 date: 2022-05-03T07:00:18.173Z
 status: resolved
-pinned: belowheader
+pinned: null
 current_severity: down
 max_severity: maintenance
 duration: 3h

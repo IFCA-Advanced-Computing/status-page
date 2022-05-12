@@ -2,7 +2,7 @@
 section: issue
 title: Upgrade slurm to latest version to fix security issues
 date: 2022-05-09T07:00:35.895Z
-status: scheduled
+status: resolved
 pinned: top
 current_severity: ok
 max_severity: disrupted

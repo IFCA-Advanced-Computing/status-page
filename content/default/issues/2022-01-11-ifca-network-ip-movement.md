@@ -2,7 +2,7 @@
 section: issue
 title: IFCA Network IP Movement
 date: 2022-01-12T08:30:59.622Z
-status: scheduled
+status: resolved
 pinned: ""
 current_severity: maintenance
 max_severity: disrupted

@@ -2,7 +2,7 @@
 section: issue
 title: Nextcloud Upgrade
 date: 2022-05-03T07:00:18.173Z
-status: scheduled
+status: resolved
 pinned: belowheader
 current_severity: down
 max_severity: maintenance

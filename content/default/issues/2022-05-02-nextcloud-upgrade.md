@@ -1,13 +1,13 @@
 ---
 section: issue
 title: Nextcloud Upgrade
-date: 2022-05-03T07:00:18.173Z
-status: resolved
+date: 2022-05-18T07:00:18.173Z
+status: in_progress
 pinned: null
-current_severity: down
+current_severity: disrupted
 max_severity: maintenance
 duration: 3h
-resolved_on: 2022-05-02T09:49:18.204Z
+resolved_on: 2022-05-18T09:49:18.204Z
 affected:
   - Internal networking
 twitterFeed: ""

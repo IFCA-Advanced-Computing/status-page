@@ -2,7 +2,7 @@
 section: issue
 title: Nextcloud Upgrade
 date: 2022-05-18T07:00:18.173Z
-status: in_progress
+status: resolved
 pinned: null
 current_severity: disrupted
 max_severity: maintenance

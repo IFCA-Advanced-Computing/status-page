@@ -3,7 +3,7 @@ section: issue
 title: Confluence instances unavailable
 date: 2022-06-03T07:40:25.000Z
 status: in_progress
-pinned: top
+pinned: null
 current_severity: down
 max_severity: down
 duration: ""

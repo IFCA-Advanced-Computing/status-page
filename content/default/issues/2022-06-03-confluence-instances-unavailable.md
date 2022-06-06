@@ -2,7 +2,7 @@
 section: issue
 title: Confluence instances unavailable
 date: 2022-06-03T07:40:25.000Z
-status: in_progress
+status: resolved
 pinned: null
 current_severity: down
 max_severity: down
@@ -19,3 +19,7 @@ Attlassian, the Confluence (our wiki sistem) vendor has released a [**CRITICAL**
 * https://confluence.deep-hybrid-datacloud.eu
 
 Will remain unavailable until a patched version is available.
+
+
+
+Problem solved

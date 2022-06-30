@@ -2,12 +2,12 @@
 section: issue
 title: Ceph Upgrade
 date: 2022-06-30T09:49:15.135Z
-status: in_progress
+status: resolved
 pinned: top
-current_severity: disrupted
+current_severity: ok
 max_severity: disrupted
 duration: 4h
-resolved_on: 2022-06-30T12:00:15.154Z
+resolved_on: 2022-06-30T19:31:13.970Z
 affected:
   - OpenStack Block Storage (cinder)
   - OpenStack Object Storage (Swift)

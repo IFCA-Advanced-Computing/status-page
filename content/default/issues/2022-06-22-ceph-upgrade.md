@@ -3,7 +3,7 @@ section: issue
 title: Ceph Upgrade
 date: 2022-06-30T09:49:15.135Z
 status: resolved
-pinned: top
+pinned: null
 current_severity: ok
 max_severity: disrupted
 duration: 4h

@@ -14,6 +14,8 @@ affected:
   - Wordpress pages
   - Chat rooms
   - Wiki (Confluence)
+  - OpenStack Block Storage (cinder)
+  - Ceph block storage
 twitterFeed: ""
 enableComments: true
 ---

@@ -16,6 +16,7 @@ affected:
   - Wiki (Confluence)
   - OpenStack Block Storage (cinder)
   - Ceph block storage
+  - Data Science Hub
 twitterFeed: ""
 enableComments: true
 ---
@@ -27,11 +28,7 @@ Disculpen las molestias
 
 Actualización: "Estamos observando que las máquinas con volúmenes attacheados puede que haya que reiniciarlas (no utilizar reiniciar, mejor stop/start), cuando estas se reinician puede seguir habiendo algún microcorte o latencias en las lecturas del disco"
 
-
-
 \--- --- --- --- ---
-
-
 
 Good morning,
 

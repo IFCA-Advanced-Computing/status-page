@@ -1,22 +1,15 @@
 ---
 section: issue
 title: Miscelaneus services not connect
-date: 2022-07-26T07:50:32.936Z
+date: 2022-08-01T08:56:55.152Z
 status: in_progress
 pinned: ""
-current_severity: down
+current_severity: monitoring
 max_severity: down
 duration: ""
 resolved_on: 2022-07-26T07:50:32.966Z
 affected:
-  - Nextcloud
-  - Indico Agenda pages
-  - Wordpress pages
-  - Chat rooms
-  - Wiki (Confluence)
-  - OpenStack Block Storage (cinder)
-  - Ceph block storage
-  - Data Science Hub
+  - OpenStack Compute Nodes
 twitterFeed: ""
 enableComments: true
 ---

@@ -5,7 +5,7 @@ date: 2022-08-03T08:42:10.478Z
 status: scheduled
 pinned: top
 current_severity: monitoring
-max_severity: down
+max_severity: monitoring
 duration: ""
 resolved_on: 2022-08-03T08:42:10.525Z
 affected:

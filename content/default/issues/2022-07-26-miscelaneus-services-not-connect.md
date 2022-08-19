@@ -2,7 +2,7 @@
 section: issue
 title: Miscelaneus services not connect
 date: 2022-08-01T08:56:55.152Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: ok
 max_severity: down

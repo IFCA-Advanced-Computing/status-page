@@ -4,10 +4,10 @@ title: OpenStack update
 date: 2022-08-03T08:42:10.478Z
 status: in_progress
 pinned: null
-current_severity: monitoring
+current_severity: ok
 max_severity: monitoring
 duration: ""
-resolved_on: 2022-08-03T08:42:10.525Z
+resolved_on: 2022-08-19T16:43:43.603Z
 affected:
   - OpenStack Cloud Public APIs
   - OpenStack Compute (nova)

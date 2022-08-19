@@ -2,7 +2,7 @@
 section: issue
 title: OpenStack update
 date: 2022-08-03T08:42:10.478Z
-status: scheduled
+status: in_progress
 pinned: top
 current_severity: monitoring
 max_severity: monitoring

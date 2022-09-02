@@ -16,4 +16,4 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-A mini power outage affects to some services of IFCA Datacenter last nigth. Some of them are already recovered, but the rest of them are wating for a manual check.
+A mini power outage affected to some services of IFCA Datacenter last nigth. Some of them are already recovered, but the rest of them are wating for a manual check.

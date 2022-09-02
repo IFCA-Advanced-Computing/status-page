@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Power outage "
+title: Power outage at IFCA
 date: 2022-09-02T07:09:20.083Z
 status: in_progress
 pinned: top

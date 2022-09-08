@@ -5,7 +5,7 @@ date: 2022-09-01T07:51:02.133Z
 status: resolved
 pinned: null
 current_severity: ok
-max_severity: monitoring
+max_severity: ok
 duration: ""
 resolved_on: ""
 affected:
@@ -22,3 +22,5 @@ Update (08-11-2022): Some services are successfully updated. They are being moni
 Update (19-08-2022): update tasks performed. The system will be monitored for a few days
 
 Update (01-09-2022): All services are updated except compute. We will proceed with the last update.
+
+Update (05-09-2022): All services are up and running.

@@ -2,10 +2,10 @@
 section: issue
 title: Power outage at IFCA
 date: 2022-09-02T07:09:20.083Z
-status: in_progress
-pinned: top
-current_severity: monitoring
-max_severity: disrupted
+status: resolved
+pinned: null
+current_severity: ok
+max_severity: monitoring
 duration: ""
 resolved_on: 2022-09-02T07:09:20.140Z
 affected:

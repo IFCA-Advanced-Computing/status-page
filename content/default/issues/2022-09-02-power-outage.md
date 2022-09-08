@@ -5,7 +5,7 @@ date: 2022-09-02T07:09:20.083Z
 status: resolved
 pinned: null
 current_severity: ok
-max_severity: monitoring
+max_severity: ok
 duration: ""
 resolved_on: 2022-09-02T07:09:20.140Z
 affected:

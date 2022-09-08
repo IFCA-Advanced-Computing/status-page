@@ -10,9 +10,6 @@ duration: ""
 resolved_on: 2022-09-02T07:09:20.140Z
 affected:
   - Batch System
-  - Computing Elements
-  - Wiki (Confluence)
-  - External network connection
 twitterFeed: ""
 enableComments: true
 ---

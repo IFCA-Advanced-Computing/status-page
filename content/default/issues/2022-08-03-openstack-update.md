@@ -2,10 +2,10 @@
 section: issue
 title: OpenStack update
 date: 2022-09-01T07:51:02.133Z
-status: in_progress
-pinned: top
-current_severity: disrupted
-max_severity: monitoring
+status: resolved
+pinned: null
+current_severity: ok
+max_severity: ok
 duration: ""
 resolved_on: ""
 affected:

@@ -1,19 +1,19 @@
 ---
 section: issue
 title: OpenStack update
-date: 2022-09-01T07:51:02.133Z
+date: 2022-08-01T07:51:02.133Z
 status: resolved
 pinned: null
 current_severity: ok
 max_severity: ok
 duration: ""
-resolved_on: ""
+resolved_on: 2022-08-31T22:00:00.000Z
 affected:
   - OpenStack Cloud Public APIs
   - OpenStack Compute (nova)
   - OpenStack Compute Nodes
 twitterFeed: ""
-enableComments: true
+enableComments: false
 ---
 During the next few weeks we will proceed to update all the OpenStack services (Cloud), taking advantage of the holiday period of many of you. The services will be updated little by little to more modern versions. They include compute, network, block storage (volumes) and portal access.
 

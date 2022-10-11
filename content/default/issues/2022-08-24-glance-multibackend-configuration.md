@@ -11,6 +11,6 @@ resolved_on: 2022-08-24T06:55:26.036Z
 affected:
   - OpenStack Image catalalog (Glance)
 twitterFeed: ""
-enableComments: true
+enableComments: false
 ---
 Add new rbd backend support for glance images

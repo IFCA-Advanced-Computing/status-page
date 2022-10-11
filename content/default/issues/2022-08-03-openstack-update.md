@@ -4,7 +4,7 @@ title: OpenStack update
 date: 2022-08-01T07:51:02.133Z
 status: resolved
 pinned: null
-current_severity: ok
+current_severity: disrupted
 max_severity: ok
 duration: ""
 resolved_on: 2022-08-31T22:00:00.000Z

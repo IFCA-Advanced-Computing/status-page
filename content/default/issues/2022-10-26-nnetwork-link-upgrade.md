@@ -1,6 +1,6 @@
 ---
 section: issue
-title: nNetwork Link Upgrade
+title: Network Link Upgrade
 date: 2022-10-26T08:55:00.000Z
 status: scheduled
 pinned: ""

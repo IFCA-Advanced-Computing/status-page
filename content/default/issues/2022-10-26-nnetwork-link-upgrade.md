@@ -13,8 +13,12 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-Se va a proceder a establecer una nueva conexión redundante con rediris a 100Gbps. El trabajo se va a efectuar en paralelo con la conexión a 10Gbps ya existente por lo que los fallos de red serán coros y muy puntuales.
+Mañana día Jueves 17 de Noviembre
+
+Se va a proceder a establecer una nueva conexión redundante con rediris a 100Gbps. El trabajo se va a efectuar en paralelo con la conexión a 10Gbps ya existente por lo que los fallos de red serán coros y muy puntuales.  
 
 \-﻿----------------------------------------------------------------------------------------------------------------------------------------------------
+
+T﻿omorrow Thrusday 17 of november
 
 A new redundant connection will be established with 100Gbps rediris. The work will be done in parallel with the existing 10Gbps connection, so network failures will be short and very punctual.

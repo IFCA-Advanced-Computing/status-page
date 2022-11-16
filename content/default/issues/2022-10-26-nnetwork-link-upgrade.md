@@ -7,7 +7,7 @@ pinned: ""
 current_severity: ok
 max_severity: disrupted
 duration: 3h
-resolved_on: 2022-10-26T12:00:41.941Z
+resolved_on: 2022-10-27T07:00:41.941Z
 affected:
   - External network connection
 twitterFeed: ""

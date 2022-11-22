@@ -90,8 +90,8 @@ Aprovechando esta parada se realizarán tareas de actualización y mantenimiento
 --- --- ---\
 \
 \
-\[1] <https://status.ifca.es>\
-\
+\[1] <https://status.ifca.es>
+
 \[2] [computing.support@ifca.unican.es](mailto:computing.support@ifca.unican.es)
 
 \[3] <https://computing.ifca.es>

@@ -52,54 +52,39 @@ Debido a tareas de mantenimiento de los transformadores generales del edificio s
 \
 Aprovechando esta parada se realizarán tareas de actualización y mantenimiento de diverso equipamiento de la sala.\
 \
-- Parada de servicios: 27 de Noviembre de 2022 a lo largo de la tarde\
-\
-- Duración estimada de la parada: 48h\
-\
-En todo momento podrá seguir el estado de nuestros servicios en \[1]\
-\
-Si tiene cualquier duda, puede consultar con nosotros en \[2]\
-\
-Disculpen las molestias\
-\
-IFCA Computing Team\
-\
-\
---- --- ---\
-\
-\
-\[English version]\
-\
-\
-Dear user,\
-\
-Due to maintenance work on the building's general transformers, we inform you that our datacenter will be shut down.\
-\
-Taking advantage of this shutdown, we will be updating and maintaining various equipment in the room.\
-\
-- Service shutdown: November 27th, 2022 during the afternoon.\
-\
-- Estimated duration of the shutdown: 48h\
-\
-At any time you can follow the status of our services at \[1].\
-\
-If you have any questions, please contact us at \[2].\
-\
-Sorry for the inconvenience\
-\
-IFCA Computing Team
 
-
-
-\--- --- ---
-
-
-
-Nota: Usted recibe este correo electrónico ya que es usuario activo de nuestro servicio de computación, si no desea recibir estas informaciones y darse de baja de nuestros servicios consultenos en \[2]
-
-
-
-Note: You are receiving this email because you are an active user of our computing service, if you do not wish to receive this information and unsubscribe from our services, please contact us at \[2].
+* Parada de servicios: 27 de Noviembre de 2022 a lo largo de la tarde\
+  \
+* Duración estimada de la parada: 48h\
+  \
+  Si tiene cualquier duda, puede consultar con nosotros en \[2]\
+  \
+  Disculpen las molestias\
+  \
+  IFCA Computing Team\
+  \
+  \
+  --- --- ---\
+  \
+  \
+  \[English version]\
+  \
+  \
+  Dear user,\
+  \
+  Due to maintenance work on the building's general transformers, we inform you that our datacenter will be shut down.\
+  \
+  Taking advantage of this shutdown, we will be updating and maintaining various equipment in the room.\
+  \
+* Service shutdown: November 27th, 2022 during the afternoon.\
+  \
+* Estimated duration of the shutdown: 48h\
+  \
+  If you have any questions, please contact us at \[2].\
+  \
+  Sorry for the inconvenience\
+  \
+  IFCA Computing Team
 
 \
 --- --- ---\

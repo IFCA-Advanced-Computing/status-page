@@ -2,7 +2,7 @@
 section: issue
 title: Corte de corriente en el CPD / Power outage in the datacenter (27-11-2022)
 date: 2022-11-27T15:00:42.595Z
-status: scheduled
+status: in_progress
 pinned: top
 current_severity: down
 max_severity: down

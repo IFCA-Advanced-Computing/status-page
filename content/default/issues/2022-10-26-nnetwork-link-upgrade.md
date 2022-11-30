@@ -2,7 +2,7 @@
 section: issue
 title: Network Link Upgrade
 date: 2022-11-17T08:30:46.460Z
-status: scheduled
+status: resolved
 pinned: ""
 current_severity: ok
 max_severity: disrupted

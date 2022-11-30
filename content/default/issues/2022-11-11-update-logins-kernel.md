@@ -2,7 +2,7 @@
 section: issue
 title: Update logins kernel
 date: 2022-11-14T08:00:39.959Z
-status: scheduled
+status: resolved
 pinned: null
 current_severity: ok
 max_severity: down

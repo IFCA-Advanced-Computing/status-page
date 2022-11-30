@@ -46,52 +46,37 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-Estimado/a usuario/a:\
-\
-Debido a tareas de mantenimiento de los transformadores generales del edificio se le informa que se realizará una parada de nuestro CPD.\
-\
-Aprovechando esta parada se realizarán tareas de actualización y mantenimiento de diverso equipamiento de la sala.\
-\
+Estimado/a usuario/a:
 
-* Parada de servicios: 27 de Noviembre de 2022 a lo largo de la tarde\
-  \
-* Duración estimada de la parada: 48h\
-  \
-  Si tiene cualquier duda, puede consultar con nosotros en \[2]\
-  \
-  Disculpen las molestias\
-  \
-  IFCA Computing Team\
-  \
-  \
-  --- --- ---\
-  \
-  \
-  \[English version]\
-  \
-  \
-  Dear user,\
-  \
-  Due to maintenance work on the building's general transformers, we inform you that our datacenter will be shut down.\
-  \
-  Taking advantage of this shutdown, we will be updating and maintaining various equipment in the room.\
-  \
-* Service shutdown: November 27th, 2022 during the afternoon.\
-  \
-* Estimated duration of the shutdown: 48h\
-  \
-  If you have any questions, please contact us at \[2].\
-  \
-  Sorry for the inconvenience\
-  \
-  IFCA Computing Team
+Debido a tareas de mantenimiento de los transformadores generales del edificio se le informa que se realizará una parada de nuestro CPD.
 
-\
---- --- ---\
-\
-\
-\[1] <https://status.ifca.es>
+Aprovechando esta parada se realizarán tareas de actualización y mantenimiento de diverso equipamiento de la sala.
 
-\[2] [computing.support@ifca.unican.es](mailto:computing.support@ifca.unican.es)
+* Parada de servicios: 27 de Noviembre de 2022 a lo largo de la tarde
+* Duración estimada de la parada: 48h
+  Si tiene cualquier duda, puede consultar con nosotros en [1](mailto:computing.support@ifca.unican.es)
 
-\[3] <https://computing.ifca.es>
+Disculpen las molestias
+IFCA Computing Team
+
+--- --- ---
+
+[English version]
+
+Dear user,
+
+Due to maintenance work on the building's general transformers, we inform you that our datacenter will be shut down.
+
+Taking advantage of this shutdown, we will be updating and maintaining various equipment in the room.
+
+* Service shutdown: November 27th, 2022 during the afternoon.
+* Estimated duration of the shutdown: 48h
+
+If you have any questions, please contact us at [1](mailto:computing.support@ifca.unican.es).
+Sorry for the inconvenience
+  
+IFCA Computing Team
+
+--- --- ---
+
+[1] [computing.support@ifca.unican.es](mailto:computing.support@ifca.unican.es)

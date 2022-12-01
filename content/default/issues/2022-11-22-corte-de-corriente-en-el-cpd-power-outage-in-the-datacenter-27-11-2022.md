@@ -1,10 +1,10 @@
 ---
 section: issue
-title: Corte de corriente en el CPD / Power outage in the datacenter (27-11-2022)
-date: 2022-11-27T15:00:42.595Z
+title: Actualización del estado del CPD
+date: 2022-12-01T09:01:29.345Z
 status: in_progress
 pinned: null
-current_severity: down
+current_severity: maintenance
 max_severity: down
 duration: ""
 resolved_on: 2022-11-30T19:00:42.631Z
@@ -46,37 +46,29 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-Estimado/a usuario/a:
+Actualización del estado de CPD:
+   El Almacenamiento Cloud- Ceph está operativo
+   El Almacenamiento HPC/Grid - GPFS está operativo
+   En estos momentos estamos restaurando los servicios de control
+   Cloud, y posteriormente comenzaremos a inicializar servicios y máquinas cloud de proyectos.\
+   En estos momentos estamos restaurando los servicios Grid: xrootd, webdav, squid, argus están operativos, arcces están levantados pero a falta de nodos de cómputo.
 
-Debido a tareas de mantenimiento de los transformadores generales del edificio se le informa que se realizará una parada de nuestro CPD.
+IFCA Computing team
 
-Aprovechando esta parada se realizarán tareas de actualización y mantenimiento de diverso equipamiento de la sala.
+- - -
 
-* Parada de servicios: 27 de Noviembre de 2022 a lo largo de la tarde
-* Duración estimada de la parada: 48h
-  Si tiene cualquier duda, puede consultar con nosotros en [1](mailto:computing.support@ifca.unican.es)
 
-Disculpen las molestias
-IFCA Computing Team
 
---- --- ---
+- - -
 
-[English version]
+CPD Status Update:   
 
-Dear user,
+   Ceph Cloud Storage is operational
+   HPC/Grid Storage - GPFS is operational.
+   We are currently restoring the Cloud control services.
+   Cloud services, and later we will start initializing cloud services and project cloud machines.
+   We are currently restoring Grid services: xrootd, webdav, squid, argus are operational, arcces are up but lacking compute nodes.
 
-Due to maintenance work on the building's general transformers, we inform you that our datacenter will be shut down.
+IFCA Computing team
 
-Taking advantage of this shutdown, we will be updating and maintaining various equipment in the room.
-
-* Service shutdown: November 27th, 2022 during the afternoon.
-* Estimated duration of the shutdown: 48h
-
-If you have any questions, please contact us at [1](mailto:computing.support@ifca.unican.es).
-Sorry for the inconvenience
-  
-IFCA Computing Team
-
---- --- ---
-
-[1] [computing.support@ifca.unican.es](mailto:computing.support@ifca.unican.es)
+\[1] [computing.support@ifca.unican.es](mailto:computing.support@ifca.unican.es)

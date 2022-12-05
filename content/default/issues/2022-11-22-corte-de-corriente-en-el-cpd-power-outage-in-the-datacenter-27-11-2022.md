@@ -9,8 +9,7 @@ max_severity: down
 duration: ""
 resolved_on: 2022-11-30T19:00:42.631Z
 affected:
-  - Computing Elements
-  - IFCA repository mirror
+  - Authentication Single Sign-on
 twitterFeed: ""
 enableComments: true
 ---

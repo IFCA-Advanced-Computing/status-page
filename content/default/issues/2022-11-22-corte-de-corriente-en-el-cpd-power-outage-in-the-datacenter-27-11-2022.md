@@ -2,9 +2,9 @@
 section: issue
 title: Actualización del estado del CPD
 date: 2022-12-01T11:14:10.576Z
-status: in_progress
+status: resolved
 pinned: null
-current_severity: maintenance
+current_severity: monitoring
 max_severity: down
 duration: ""
 resolved_on: 2022-11-30T19:00:42.631Z

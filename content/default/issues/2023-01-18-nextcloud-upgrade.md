@@ -2,7 +2,7 @@
 section: issue
 title: Nextcloud Upgrade
 date: 2023-01-19T07:30:15.301Z
-status: scheduled
+status: resolved
 pinned: null
 current_severity: ok
 max_severity: maintenance

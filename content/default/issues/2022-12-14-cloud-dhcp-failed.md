@@ -2,9 +2,9 @@
 section: issue
 title: Cloud DHCP failed
 date: 2022-12-14T08:55:13.362Z
-status: in_progress
+status: resolved
 pinned: null
-current_severity: monitoring
+current_severity: ok
 max_severity: down
 duration: ""
 resolved_on: 2022-12-14T08:55:13.377Z

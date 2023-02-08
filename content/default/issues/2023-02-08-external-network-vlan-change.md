@@ -4,7 +4,7 @@ title: External Network vlan change
 date: 2023-02-09T11:20:23.195Z
 status: in_progress
 pinned: ""
-current_severity: down
+current_severity: ok
 max_severity: ok
 duration: 1h
 resolved_on: 2023-02-08T11:20:23.207Z

@@ -2,11 +2,11 @@
 section: issue
 title: External Network vlan change
 date: 2023-02-09T08:00:23.195Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: ok
 max_severity: ok
-duration: 1h
+duration: 15min
 resolved_on: 2023-02-08T11:20:23.207Z
 affected:
   - User Interfaces
@@ -20,4 +20,6 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-Change of vlan configuration (IFCA-TELMAD connection), there would be no loss of service, the traffic would switch to the IFCA-EHU
+D﻿ONE!!
+
+Change of vlan configuration (IFCA-TELMAD connection), there would be no loss of service, the traffic would switch to the IFCA-EHU.

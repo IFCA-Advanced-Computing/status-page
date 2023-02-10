@@ -19,3 +19,7 @@ NetApp has requested a firmware upgrade of the disks. This is causing high laten
 0﻿9/02/2023
 
 The process continues as expected. Possibly during the course of tomorrow the upgrade process will be completed and the system will start working properly.
+
+1﻿0/02/2023
+
+The firmware update process has been completed. High latency connections should begin to be released and return to optimal performance over the next few hours.

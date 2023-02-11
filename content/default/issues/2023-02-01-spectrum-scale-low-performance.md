@@ -1,13 +1,13 @@
 ---
 section: issue
 title: Spectrum Scale low performance
-date: 2023-02-01T12:45:49.166Z
-status: in_progress
+date: 2023-02-11T09:15:19.301Z
+status: resolved
 pinned: ""
-current_severity: disrupted
-max_severity: disrupted
+current_severity: monitoring
+max_severity: monitoring
 duration: 48h
-resolved_on: 2023-02-10T13:00:49.179Z
+resolved_on: 2023-02-11T09:15:08.734Z
 affected:
   - IBM Spectrum Scale
   - Computing Elements
@@ -23,3 +23,7 @@ The process continues as expected. Possibly during the course of tomorrow the up
 1﻿0/02/2023
 
 The firmware update process has been completed. High latency connections should begin to be released and return to optimal performance over the next few hours.
+
+1﻿1/02/2023
+
+S﻿ystems are up. There are no high  latencies and seems to be working fine.

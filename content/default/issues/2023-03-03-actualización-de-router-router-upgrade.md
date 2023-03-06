@@ -1,8 +1,8 @@
 ---
 section: issue
-title: Actualización de router / Router upgrade
+title: Actualización de router / Router upgrade (Finalizdo / Completed)
 date: 2023-03-06T08:00:00.000Z
-status: scheduled
+status: resolved
 pinned: ""
 current_severity: maintenance
 max_severity: down
@@ -26,6 +26,16 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
+U﻿pdate 6/3/2023 12:20
+
+Finalizado / Completed
+
+
+
+\-﻿-- --- --- --- --- --- --- ---
+
+
+
 \[English version below]\
 \
 \

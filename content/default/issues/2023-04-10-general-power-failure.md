@@ -2,8 +2,8 @@
 section: issue
 title: General power failure
 date: 2023-04-10T03:34:41.684Z
-status: in_progress
-pinned: top
+status: resolved
+pinned: null
 current_severity: monitoring
 max_severity: disrupted
 duration: ""

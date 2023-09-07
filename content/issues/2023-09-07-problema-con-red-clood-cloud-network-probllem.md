@@ -16,7 +16,7 @@ affected:
   - Chat rooms
   - GitLab
   - Wiki (Confluence)
-severity: disrupted
+severity: down
 ---
 Buenas tardes,
 Estamos teniendo problemas con la red de cloud, estamos trabajando en recuperar el servicio cuanto antes

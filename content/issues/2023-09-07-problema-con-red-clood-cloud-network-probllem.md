@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Problema con red clood / Cloud network probllem
+title: Problema con red cloud / Cloud network probllem
 date: 2023-09-07T11:42:46.087Z
 resolved: false
 draft: false

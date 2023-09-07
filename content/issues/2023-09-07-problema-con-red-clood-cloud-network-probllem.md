@@ -23,6 +23,8 @@ Estamos teniendo problemas con la red de cloud, estamos trabajando en recuperar 
 Disculpa las molestias
 -﻿-- --- ---
 
+\-﻿-- --- ---
+
 Good afternoon,
 
 We are having problems with the cloud network, we are working to recover the service as soon as possible.

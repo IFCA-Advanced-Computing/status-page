@@ -6,7 +6,7 @@ resolved: false
 draft: false
 informational: false
 pin: true
-resolvedWhen: 2023-09-11T09:08:02.269Z
+resolvedWhen: ""
 affected:
   - OpenStack Networking (Neutron)
   - Wordpress pages

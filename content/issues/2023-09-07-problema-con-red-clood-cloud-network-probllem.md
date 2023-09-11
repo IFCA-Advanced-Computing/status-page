@@ -6,7 +6,7 @@ resolved: false
 draft: false
 informational: false
 pin: true
-resolvedWhen: ""
+resolvedWhen: 2023-09-11T09:08:02.269Z
 affected:
   - OpenStack Networking (Neutron)
   - Wordpress pages
@@ -16,8 +16,14 @@ affected:
   - Chat rooms
   - GitLab
   - Wiki (Confluence)
-severity: down
+severity: notice
 ---
+UPDATE - 2023 - 09 - 11
+
+Since saturday afternoon, our internal gateway switched down due to a power outage. The access of almost all of our services were unreachable. The gateway and the rest of the services are UP again and the services are becoming available.
+
+\---------
+
 Buenas tardes,
 Estamos teniendo problemas con la red de cloud, estamos trabajando en recuperar el servicio cuanto antes
 Disculpa las molestias
